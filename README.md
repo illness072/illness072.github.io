@@ -16,3 +16,4 @@
 ## リポジトリ
 
 - [elephant42](https://github.com/illness072/elephant42)
+- [M5Paperとけい](https://github.com/illness072/m5paper-clock)
