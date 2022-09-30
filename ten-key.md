@@ -6,6 +6,7 @@ Created for the [Seed Fusion DIY XIAO Keyboard Contest](https://www.seeedstudio.
 
 | ![](images/tenkey-front.jpg) | ![](images/tenkey-back.jpg) |
 |--|--|
+|||
 
 ## what is this?
 
