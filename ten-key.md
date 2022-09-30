@@ -24,13 +24,13 @@ Finally, since I made the board in the size of a Japanese business card, I added
 
 ## Demo
 
-https://twitter.com/illness072/status/1569666735346970630
+[https://twitter.com/illness072/status/1569666735346970630](https://twitter.com/illness072/status/1569666735346970630)
 
 # Order through Gallery
 
 You can order PCBA with simple operation.
 
-https://www.seeedstudio.com/Ten-Key-g-1373380
+[https://www.seeedstudio.com/Ten-Key-g-1373380](https://www.seeedstudio.com/Ten-Key-g-1373380)
 
 ## Other Material
 
