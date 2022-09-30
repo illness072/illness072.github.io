@@ -12,8 +12,11 @@
 ## つくった
 
 - [超簡易パッシブミキサー](passive_mixer.md)
+- [🦡Key](ten-key.md)
 
 ## リポジトリ
 
-- [elephant42](https://github.com/illness072/elephant42)
+- [Project🦣](https://github.com/illness072/project-mammoth)
+- [🐘42](https://github.com/illness072/elephant42)
+- [🧮9999](https://github.com/illness072/soroban9999)
 - [M5Paperとけい](https://github.com/illness072/m5paper-clock)
